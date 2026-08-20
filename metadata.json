@@ -1,0 +1,6 @@
+{
+  "name": "Chemical Formula Builder",
+  "description": "An interactive educational chemistry laboratory game where students learn and construct chemical formulas through drag-and-drop element bonding, atom counts, and visual reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
